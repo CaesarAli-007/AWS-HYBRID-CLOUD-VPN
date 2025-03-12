@@ -60,5 +60,7 @@ Cleint VPN  <-->  OpenVPN on AWS  <-->  AWS VPC
 - Implement CloudWatch Monitoring for VPN usage.
 - Integrate AWS Transit Gateway for more complex hybrid setups.
 
+***(Open for contributions)***
+
 # Contributors
-Ali H. Mughal (AWS. Solutions Architect)
+Ali H. Mughal *(AWS. Solutions Architect)*
